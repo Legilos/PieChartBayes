@@ -1,0 +1,42 @@
+1. China is the largest povider in both pies (single slice CHINA) YES
+2. A comparison between revenue focusing on the shaded slice (single slice/shaded? Services) NO 
+3. Percent of donations from the wealthy (single slice Shares) YES
+4. Distribution of set-top boxes based on provider (VS)Motorola vs Cisco NO
+5. Dominance of Airbus in certain locations and the difficulty of finding different services in ares it is not offered (single slice)AIRBUS NO
+6. Googles increased online presence (single slice) GOOGLE YES
+7. Budget increase for projects in Mexico (single slice/VS?) Mexico YES
+8. Public opinion (VS) YES Disapprove
+9. Investments recieved vs investments made, (Asia Single Slice) NO Asia
+10. Republican and Democrate runners vote percentage (raw data) NO Candidates
+11. Percent of convicted politicians based on party (single slice) NO Parties
+12  Presidential approval (VS) NO Negative
+13. Approval of party for president and deadline for troop withdrawl (single slice) NO Party
+14. Diesel trucks are becoming more ecofriendly (single slice/shaded) YES Diesel
+15. Mortage value changing with time?  Values are unclear (single slice) YES market share
+16. Number of shares reperchased (Single slice, home depot) NO
+17. Mail Technology used in different businesses (VS/single slice?) NO Plan?
+18. Return claim amount based on deductions (single slice) YES standard deduction
+19. Walmat shares in mexico over time (Single slice) YES Walmex
+20. Small servers electricity cost increase (Single slice) YES Small
+21. Increased mortgage rates for people with lower credit (single slice) YES Loan rates
+22. Medicare and public spending increase (shaded/single slice) YES Medicare
+23. Medicare and public spending increase (shaded/single slice) IGNORE
+24. How long will Bush's set back be, who sets policy for the country (unrelated graphs, single slices in both cases)  NO Set back
+25. Telecommunication spending based on message type (single slice) NO Cable
+26. Transportation has an increased effect on greenhouse gases (single) NO transportation
+27. Ratio of sellers to buyers (China, not in second graph, single slice) YES China
+28. Approval of GWB and who should set policy (VS) Disapprove YES
+29. Chain retail store increase with time (single slice) NO Chain stores
+30. People tend to get a new car of the same origin as the previous one(single slice) YES Domestic
+31. Medical systems spendings increase with time (single slice/shading) NO Medical
+32. NA
+33. Third parties have a small percent of the vote (shaded?/single slice/bloomberg) YES third party
+34. Market share of different car companies (single slice) YES market share
+35. Awareness of new iphone and deciding to wait for new release (vs) NO Awareness
+36. Number of developers in germany vs other countries over time (VS) NO Germany
+37. Percent of republican voters based on demographic (VS) NO electorate
+38. Increase in test score grades over time (VS) YES accomodations
+39. NA
+40. Turkey ethnic group and religion ration (VS)  YES Ethnic groups
+
+19/37 = 51.351%  Had the message in the annotation
