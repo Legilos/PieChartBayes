@@ -43,3 +43,11 @@ $ git rm -r —cached piechart_bayes_data/NetFiles/
 ```shell
 $ git update-index —assume-unchanged piechart_bayes_data/NetFiles/
 ```
+
+
+======================================================================================
+
+SimpleNLG is required to run the Lexicom, instructions can be found here
+https://github.com/simplenlg/simplenlg/wiki
+
+Install the .jar file into eclipse in order to use it properly.  
