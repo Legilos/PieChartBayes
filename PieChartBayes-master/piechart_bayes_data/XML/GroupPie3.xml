@@ -1,0 +1,37 @@
+<PieGroup>
+	<Piechart id="P1">
+		<title>Clinton</title>
+		<slice id="1">
+			<label>Donations</label>
+			<value>13%</value>
+		</slice>
+	</Piechart>
+	<Piechart id="P2">
+		<title>Obama</title>
+		<slice id="1">
+			<label>Donations</label>
+			<value>12%</value>
+		</slice>
+	</Piechart>
+	<Piechart id="P3">
+		<title>Edwards</title>
+		<slice id="1">
+			<label>Donations</label>
+			<value>7%</value>
+		</slice>
+	</Piechart>
+	<Piechart id="P4">
+		<title>Richardson</title>
+		<slice id="1">
+			<label>Donations</label>
+			<value>11%</value>
+		</slice>
+	</Piechart>
+	<Piechart id="P5">
+		<title>Dodd</title>
+		<slice id="1">
+			<label>Donations</label>
+			<value>36%</value>
+		</slice>
+	</Piechart>
+</PieGroup>

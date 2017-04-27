@@ -1,0 +1,48 @@
+<PieGroup>
+	<Piechart id="P1">
+		<title>2004</title>
+		<slice id="1">
+			<label>Other</label>
+			<value>$5.00</value>
+		</slice>
+		<slice id="2">
+			<label>Google</label>
+			<value>$1.26</value>
+		</slice>
+		<slice id="3">
+			<label>Yahoo</label>
+			<value>$1.78</value>
+		</slice>
+		<slice id="4">
+			<label>MSN</label>
+			<value>$0.93</value>
+		</slice>
+		<slice id="5">
+			<label>AOL</label>
+			<value>$0.66</value>
+		</slice>		
+	</Piechart>
+	<Piechart id="P2">
+		<title>2008</title>
+		<slice id="1">
+			<label>Other</label>
+			<value>$11.12</value>
+		</slice>
+		<slice id="2">
+			<label>Google</label>
+			<value>$7.92</value>
+		</slice>
+		<slice id="3">
+			<label>Yahoo</label>
+			<value>$3.62</value>
+		</slice>
+		<slice id="4">
+			<label>MSN</label>
+			<value>$1.73</value>
+		</slice>
+		<slice id="5">
+			<label>AOL</label>
+			<value>$1.51</value>
+		</slice>
+	</Piechart>
+</PieGroup>

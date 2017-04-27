@@ -1,0 +1,40 @@
+<PieGroup>
+	<Piechart id="P1">
+		<title>Airbus</title>
+		<slice id="1">
+			<label>Airbus</label>
+			<value>64.8%</value>
+		</slice>
+		<slice id="2">
+			<label>Flabel</label>
+			<value>4.2%</value>
+		</slice>
+		<slice id="3">
+			<label>Turkish</label>
+			<value>5.2%</value>
+		</slice>
+		<slice id="4">
+			<label>Casa</label>
+			<value>25.8%</value>
+		</slice>		
+	</Piechart>
+	<Piechart id="P2">
+		<title>Europrop</title>
+		<slice id="1">
+			<label>MTU</label>
+			<value>28%</value>
+		</slice>
+		<slice id="2">
+			<label>Rolls-Royce</label>
+			<value>28%</value>
+		</slice>
+		<slice id="3">
+			<label>Turbo Propulsores</label>
+			<value>16%</value>
+		</slice>
+		<slice id="4">
+			<label>France</label>
+			<value>28%</value>
+		</slice>
+	</Piechart>
+</PieGroup>

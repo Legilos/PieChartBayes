@@ -1,0 +1,32 @@
+<PieGroup>
+	<Piechart id="P1">
+		<title>2006</title>
+		<slice id="1">
+			<label>Motorola</label>
+			<value>55%</value>
+		</slice>
+		<slice id="2">
+			<label>Cisco/SA</label>
+			<value>31%</value>
+		</slice>
+		<slice id="3">
+			<label>Other</label>
+			<value>14%</value>
+		</slice>
+	</Piechart>
+	<Piechart id="P2">
+		<title>2007</title>
+		<slice id="1">
+			<label>Motorola</label>
+			<value>60%</value>
+		</slice>
+		<slice id="2">
+			<label>Cisco/SA</label>
+			<value>31%</value>
+		</slice>
+		<slice id="3">
+			<label>Other</label>
+			<value>15%</value>
+		</slice>
+	</Piechart>
+</PieGroup>

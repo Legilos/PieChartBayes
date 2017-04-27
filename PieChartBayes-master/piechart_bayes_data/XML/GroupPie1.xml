@@ -1,0 +1,44 @@
+<PieGroup>
+	<Piechart id="P1">
+		<title>Asian Exports</title>
+		<slice id="1">
+			<label>China</label>
+			<value>$87.6</value>
+		</slice>
+		<slice id="2">
+			<label>Mexico</label>
+			<value>$9.7</value>
+		</slice>
+		<slice id="3">
+			<label>Argentina</label>
+			<value>$7.3</value>
+		</slice>
+		<slice id="4">
+			<label>Others</label>
+			<value>$2.1</value>
+		</slice>
+	</Piechart>
+	<Piechart id="P2">
+		<title>Asian Exports</title>
+		<slice id="1">
+			<label>China</label>
+			<value>$12.7</value>
+		</slice>
+		<slice id="2">
+			<label>Argentina</label>
+			<value>$12.7</value>
+		</slice>
+		<slice id="3">
+			<label>Others</label>
+			<value>$2.4</value>
+		</slice>
+			<slice id="4">
+			<label>Thailand</label>
+			<value>$1.9</value>
+		</slice>
+		<slice id="5">
+			<label>Australia</label>
+			<value>$1.5</value>
+		</slice>
+	</Piechart>
+</PieGroup>

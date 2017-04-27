@@ -1,0 +1,70 @@
+<PieGroup>
+	<Piechart id="P1">
+		<title>President</title>
+		<slice id="1">
+			<label>Disapprove</label>
+			<value>63%</value>
+		</slice>
+		<slice id="2">
+			<label>Approve</label>
+			<value>32%</value>
+		</slice>
+		<slice id="3">
+			<label>Not Sure</label>
+			<value>5%</value>
+		</slice>
+	</Piechart>
+	<Piechart id="P2">
+		<title>Congress</title>
+		<slice id="1">
+			<label>Disapprove</label>
+			<value>69%</value>
+		</slice>
+		<slice id="2">
+			<label>Approve</label>
+			<value>19%</value>
+		</slice>
+		<slice id="3">
+			<label>Not Sure</label>
+			<value>12%</value>
+		</slice>
+	</Piechart>
+	<Piechart id="P3">
+		<title>Democrats</title>
+		<slice id="1">
+			<label>Negative</label>
+			<value>35%</value>
+		</slice>
+		<slice id="2">
+			<label>Positive</label>
+			<value>45%</value>
+		</slice>
+		<slice id="3">
+			<label>Not Sure</label>
+			<value>2%</value>
+		</slice>
+		<slice id="4">
+			<label>Neutral</label>
+			<value>18%</value>
+		</slice>
+	</Piechart>
+	<Piechart id="P4">
+		<title>GOP</title>
+		<slice id="1">
+			<label>Negative</label>
+			<value>49%</value>
+		</slice>
+		<slice id="2">
+			<label>Positive</label>
+			<value>34%</value>
+		</slice>
+		<slice id="3">
+			<label>Not Sure</label>
+			<value>2%</value>
+		</slice>
+		<slice id="4">
+			<label>Neutral</label>
+			<value>15%</value>
+		</slice>
+	</Piechart>
+</PieGroup>

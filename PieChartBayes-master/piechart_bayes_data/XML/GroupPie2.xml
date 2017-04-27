@@ -1,0 +1,40 @@
+<PieGroup>
+	<Piechart id="P1">
+		<title>H-P</title>
+		<slice id="1">
+			<label>Services</label>
+			<value>$16.65</value>
+		</slice>
+		<slice id="2">
+			<label>Investments</label>
+			<value>$3.1</value>
+		</slice>
+		<slice id="3">
+			<label>Storage</label>
+			<value>$18.77</value>
+		</slice>
+		<slice id="4">
+			<label>Software</label>
+			<value>$2.33</value>
+		</slice>
+		<slice id="5">
+			<label>Imaging</label>
+			<value>$28.47</value>
+		</slice>
+		<slice id="6">
+			<label>Systems</label>
+			<value>$36.41</value>
+		</slice>
+	</Piechart>
+	<Piechart id="P2">
+		<title>EDS</title>
+		<slice id="1">
+			<label>Outsourcing</label>
+			<value>$21.22</value>
+		</slice>
+		<slice id="2">
+			<label>Argentina</label>
+			<value>$0.92</value>
+		</slice>
+	</Piechart>
+</PieGroup>

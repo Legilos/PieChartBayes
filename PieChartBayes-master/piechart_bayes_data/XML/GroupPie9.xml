@@ -1,0 +1,36 @@
+<PieGroup>
+	<Piechart id="P1">
+		<title>Recieved Investments</title>
+		<slice id="1">
+			<label>U.S.</label>
+			<value>37%</value>
+		</slice>
+		<slice id="2">
+			<label>Asia</label>
+			<value>7%</value>
+		</slice>
+		<slice id="3">
+			<label>China</label>
+			<value>21%</value>
+		</slice>
+		<slice id="4">
+			<label>EU</label>
+			<value>35%</value>
+		</slice>		
+	</Piechart>
+	<Piechart id="P2">
+		<title>Investments Made</title>
+		<slice id="1">
+			<label>Asia</label>
+			<value>55%</value>
+		</slice>
+		<slice id="2">
+			<label>China</label>
+			<value>13%</value>
+		</slice>
+		<slice id="3">
+			<label>Middle East</label>
+			<value>32%</value>
+		</slice>
+	</Piechart>
+</PieGroup>
