@@ -1,0 +1,29 @@
+SUBJECT - VERB - OBJECT
+1) China - is the largest element in - both pies
+2) Services - has signficantly decreased in - the second pie 
+3) Donations - has signficantly increased in - Dodd
+4) Motorola -  signficantly increased in - 2007
+5) Air Bus - signficantly decreased in - Europrop Internation
+6) Google -  signficantly increased in - 2008
+7) Project Budgets - signficantly decreased in - Mexico
+8) Negative - is the largest element in - most graphs
+9) Asia -  signficantly increased in - investments made
+10) NA
+
+
+SUBJECTS
+element
+
+VERBS
+is the largest element in
+is the smallest element in
+
+has signficantly increased in
+has signficantly decreased in
+
+OBJECTS
+*name of pie*
+Pie 1
+Pie 2
+Both Pies
+Neither Pie
