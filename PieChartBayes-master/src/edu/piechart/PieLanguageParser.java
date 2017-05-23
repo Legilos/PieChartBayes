@@ -15,46 +15,46 @@ import simplenlg.features.*;
 
 public class PieLanguageParser {
 
-	public PieLanguageParser{
+	public PieLanguageParser(){
         Lexicon lexicon = Lexicon.getDefaultLexicon();
         NLGFactory nlgFactory = new NLGFactory(lexicon);
         Realiser realiser = new Realiser(lexicon);
         SPhraseSpec p = nlgFactory.createClause();
         
         
-        String message;
+        int message;
         int messageValue;  
         int valueChange; //if there is a slice with the same name, find the difference
         
         valueChange = nodeCompare(node1, node2);
         
         if(messageValue>50){
-        	message= "largest";
+        	message= 1;
         }
         if(messageValue<5){
-        	message= "smallest";
+        	message= 2;
         }
         if(valueChange>15){
-        	message= "increasing";
+        	message= 3;
         }
         if(valueChange<-15){
-        	message= "decreasing";
+        	message= 4;
         }
         
         switch(message){
-        	case "increasing":
+        	case 1:
         		System.out.println("is the largest element in");
         		p.setVerb("is the largest element in");
         		break;
-        	case "smallest":
+        	case 2:
         		System.out.println("is the smallest element in");
         		p.setVerb("is the smallest element in");
         		break;
-        	case "increasing":
+        	case 3:
         		System.out.println("has signficantly increased in");
         		p.setVerb("has signficantly increased in");
         		break;
-        	case "decreasing":
+        	case 4:
         		System.out.println("has signficantly decreased in");
         		p.setVerb("has signficantly decreased in");
         		break;
@@ -118,6 +118,8 @@ public class PieLanguageParser {
 	}
 	
 	/* Psuedo Code for Increase/Decrease Function
+	 * Still needs to be made
+	 * Compares a node from one chart to another node of the same name in another
 	int nodeCompare(node node1, node node2){
 		if(node1.name==node2.name){
 			return node1.value - node2.value;
